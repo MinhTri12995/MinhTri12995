@@ -1,20 +1,19 @@
-name: "🚀 Start a Project / Thuê Làm Dự Án Nhanh"
-description: "Need an AI web app, Python tool/bot, or bug-fix rescue on an indie-friendly budget?"
+name: "🚀 Start a Project — Quick Fixed-Price Quote"
+description: "Need a Next.js web app, Python automation/bot, or bug-fix & deployment on an indie-friendly budget?"
 title: "[Project Inquiry] "
 labels: ["inquiry"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reaching out! Share a quick 30-second brief below and I'll reply with a clear scope, timeline, and budget-friendly quote.
-        *(Cảm ơn bạn đã liên hệ! Điền nhanh 30 giây bên dưới, mình sẽ phản hồi phương án và báo giá tối ưu trong ngày.)*
+        Thanks for reaching out! Share a quick 30-second brief below and I'll reply with a clear scope, fixed-price milestone quote, and realistic timeline within 24 hours.
 
   - type: dropdown
     id: project_type
     attributes:
-      label: "Project Type / Loại công việc"
+      label: "Project Type"
       options:
-        - "AI Web App / Micro-SaaS MVP"
+        - "Full-Stack Web App / Micro-SaaS MVP"
         - "Python Automation / Bot / Scraper"
         - "Bug Fixing, Optimization & Deployment (Existing App)"
         - "Other Custom Tool"
@@ -24,7 +23,7 @@ body:
   - type: dropdown
     id: budget
     attributes:
-      label: "Estimated Budget / Ngân sách dự kiến"
+      label: "Estimated Budget"
       options:
         - "$35 – $100 (Quick Script / Bug Fix)"
         - "$100 – $250 (Feature / Bot / Tool)"
@@ -36,16 +35,16 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: "What do you want to build? / Mô tả ngắn gọn ý tưởng"
+      label: "What do you want to build or fix?"
       description: "Share your core goal, deadline, and any reference link or repo."
-      placeholder: "e.g., Build a Next.js web app with Stripe/PayOS checkout, create a Python Telegram/scraper bot, or fix bugs & deploy an existing prototype."
+      placeholder: "e.g., Build a Next.js web app with Stripe checkout, create a Python Telegram/scraper bot, or fix bugs & deploy an existing app."
     validations:
       required: true
 
   - type: input
     id: contact
     attributes:
-      label: "Where can I reach you? / Liên hệ (Telegram / Zalo / Email / FB / Discord)"
-      placeholder: "e.g., @telegram_handle or email@domain.com"
+      label: "Where can I reach you? (Email / Telegram / Discord / WhatsApp)"
+      placeholder: "e.g., name@company.com, @telegram_handle, or Discord username"
     validations:
       required: true

@@ -14,12 +14,7 @@
 
 I build **production-ready web apps, payment integrations, and Python automation bots** for founders, indie makers, and small businesses — with reliable architecture and practical AI where it genuinely saves time or improves product quality.
 
-<details>
-<summary>🇻🇳 Xem giới thiệu tiếng Việt (Click to expand)</summary>
-
-Mình chuyên thiết kế và phát triển **Web App (Next.js / React), tích hợp thanh toán, và Tool/Bot tự động hóa bằng Python** theo từng dự án gọn nhẹ (**$35–$350** / **800k–8M VNĐ**, bàn giao trong **1–7 ngày**). Tập trung vào sự ổn định, bảo mật giao dịch, xử lý lỗi thực tế và bàn giao code sạch dễ vận hành.
-
-</details>
+🌏 **Availability & Collaboration:** Fixed-price milestones (`$35–$350`) · `1–7 day` turnaround · Async-friendly English updates & daily staging previews (`UTC+7`, overlapping EU / UK / US / APAC).
 
 <br />
 
@@ -33,7 +28,7 @@ Mình chuyên thiết kế và phát triển **Web App (Next.js / React), tích 
 
 | System | Role & Architecture | Live / Impact |
 | :--- | :--- | :--- |
-| **[IELTSUp](https://www.ieltsup.app)** — Multi-Examiner IELTS Writing & Speaking SaaS | **Next.js 16 + React 19 Monorepo** + Express worker backend, Upstash Redis rate limiting, Firebase Auth, **multi-examiner AI scoring with blind discrepancy adjudication**, and **atomic quota ledger** (`RESERVED -> COMMITTED \| REFUNDED`) across PayOS, Stripe & Crypto webhooks. | **[ieltsup.app](https://www.ieltsup.app)** · Live production SaaS |
+| **[IELTSUp](https://www.ieltsup.app)** — Multi-Examiner IELTS Writing & Speaking SaaS | **Next.js 16 + React 19 Monorepo** + Express worker backend, Upstash Redis rate limiting, Firebase Auth, **multi-examiner AI scoring with blind discrepancy adjudication**, and **atomic quota ledger** (`RESERVED -> COMMITTED \| REFUNDED`) across Stripe, Multi-Gateway & Crypto webhooks. | **[ieltsup.app](https://www.ieltsup.app)** · Live production SaaS |
 | **Automated Digital Fulfillment & Dispute Verification System** *(Private Prod)* | **Python + Flask Blueprints**, **SQLite WAL + Supabase RPC** lease-locked FIFO queues, rotating proxy circuit breaker, **AI Vision OCR payment verification** (`>95%` accuracy), and live Telegram ops alerts. | Zero double-claims · Automated daily order fulfillment & ops |
 
 ---
@@ -44,7 +39,7 @@ Mình chuyên thiết kế và phát triển **Web App (Next.js / React), tích 
 | :--- | :--- | :---: | :---: |
 | **Bug Fixing, Optimization & Deployment** | Fix auth/payment race conditions, resolve API timeouts, harden database locks, and deploy to Vercel / Render / VPS | **1 – 2 days** | **$35 – $100** |
 | **Python Automation, Scrapers & Ops Bots** | Telegram / Discord ops bots, resilient Playwright/HTTP scrapers, CSV/CRM pipelines, and OCR verification scripts | **2 – 4 days** | **$50 – $180** |
-| **Full-Stack Web MVP & SaaS Features** | Next.js + Tailwind web app, login & user dashboard, Stripe / PayOS billing webhooks, and structured AI workflows | **4 – 7 days** | **$120 – $350** |
+| **Full-Stack Web MVP & SaaS Features** | Next.js + Tailwind web app, login & user dashboard, Stripe / Webhook billing, and structured AI workflows | **4 – 7 days** | **$120 – $350** |
 
 ---
 
@@ -58,7 +53,7 @@ Mình chuyên thiết kế và phát triển **Web App (Next.js / React), tích 
 ![PostgreSQL](https://img.shields.io/badge/Supabase_/_Postgres-0C0E0D?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Redis](https://img.shields.io/badge/Upstash_Redis-0C0E0D?style=flat-square&logo=redis&logoColor=FF4438)
 ![Firebase](https://img.shields.io/badge/Firebase-0C0E0D?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Stripe](https://img.shields.io/badge/Stripe_&_PayOS-0C0E0D?style=flat-square&logo=stripe&logoColor=635BFF)
+![Stripe](https://img.shields.io/badge/Stripe_&_Webhooks-0C0E0D?style=flat-square&logo=stripe&logoColor=635BFF)
 ![Vercel](https://img.shields.io/badge/Vercel_&_Render-0C0E0D?style=flat-square&logo=vercel&logoColor=white)
 
 ---
