@@ -1,72 +1,72 @@
 <div align="center">
   <a href="https://minhtri12995.github.io">
-    <img src="./assets/hero-banner.svg" alt="Nguyen Minh Tri — Systems-First Vibe Coder" width="100%" />
+    <img src="./assets/hero-banner.svg" alt="Nguyen Minh Tri — Full-Stack Web & Python Automation Developer" width="100%" />
   </a>
 
-  <p>
-    <a href="https://minhtri12995.github.io"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-minhtri12995.github.io-10B981?style=flat-square&labelColor=141716" alt="Live Portfolio" /></a>
-    <a href="https://ielts-gemini-pro.vercel.app"><img src="https://img.shields.io/badge/LIVE_SAAS-IELTSUp_AI-D97757?style=flat-square&labelColor=141716" alt="IELTSUp Live App" /></a>
-    <a href="https://trigpt0810.vercel.app"><img src="https://img.shields.io/badge/LIVE_APP-TriGPT_Workspace-E2E0D8?style=flat-square&labelColor=141716" alt="TriGPT Live App" /></a>
-    <a href="https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml"><img src="https://img.shields.io/badge/HIRE_ME-Quick_Project_Brief-10B981?style=flat-square&labelColor=141716" alt="Start a Project" /></a>
-  </p>
+  <br /><br />
+
+  <a href="https://minhtri12995.github.io"><img src="https://img.shields.io/badge/Portfolio-minhtri12995.github.io-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+  <a href="https://www.ieltsup.app"><img src="https://img.shields.io/badge/Live_SaaS-ieltsup.app-0F766E?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="IELTSUp Live" /></a>
+  <a href="https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml"><img src="https://img.shields.io/badge/Hire_Per_Project-$35–$350-D97757?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Start a Project" /></a>
+</div>
+
+<br />
+
+I build **production-ready web apps, payment integrations, and Python automation bots** for founders, indie makers, and small businesses — with reliable architecture and practical AI where it genuinely saves time or improves product quality.
+
+<details>
+<summary>🇻🇳 Xem giới thiệu tiếng Việt (Click to expand)</summary>
+
+Mình chuyên thiết kế và phát triển **Web App (Next.js / React), tích hợp thanh toán, và Tool/Bot tự động hóa bằng Python** theo từng dự án gọn nhẹ (**$35–$350** / **800k–8M VNĐ**, bàn giao trong **1–7 ngày**). Tập trung vào sự ổn định, bảo mật giao dịch, xử lý lỗi thực tế và bàn giao code sạch dễ vận hành.
+
+</details>
+
+<br />
+
+<div align="center">
+  <img src="./assets/engineering-pillars.svg" alt="Engineering Pillars — Built for Real Traffic, Practical AI & Automation, Fast & Fair Per-Project" width="100%" />
 </div>
 
 ---
 
-### ⚡ Why Systems-First Vibe Coding?
+### Selected Production Work
 
-Most "vibe-coded" apps fall apart the moment real users hit them — silent API drops, race conditions, broken auth, or leaked credentials.
-
-I pair **20x Frontier AI Agent Orchestration** (*Antigravity, Gemini Ultra, Claude, Codex*) with **practical Systems Engineering** (*atomic ledgers, lease-locked queues, multi-agent adjudication, circuit-breaker proxies, and strict security boundaries*). You get production-grade software shipped in **days instead of weeks**, at **accessible, per-project indie rates** — no agency overhead or full-time commitment required.
-
-<details>
-<summary><strong>🇻🇳 Phiên bản ngắn Tiếng Việt (Click để xem)</strong></summary>
-
-Mình là **Nguyễn Minh Trí** — **Systems-First Vibe Coder**. Thay vì chỉ prompt tạo demo dễ lỗi khi chạy thật, mình kết hợp **năng lực điều phối 20x AI Agents** cùng **tư duy thiết kế hệ thống** (hàng đợi chống đụng độ, ledger giao dịch nguyên tử, cơ chế fallback & bảo mật API) để biến ý tưởng thành **Web App AI, Micro-SaaS, hoặc Tool tự động hóa Python** chạy ổn định chỉ trong **1–7 ngày** với chi phí tối ưu cho từng job lẻ.
-
-👉 **[Xem Portfolio & Tạo Brief 30 giây](https://minhtri12995.github.io)** · **[Gửi yêu cầu trực tiếp qua GitHub](https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml)**
-
-</details>
-
-<br/>
-
-<img src="./assets/systems-advantage.svg" alt="Prompt-Only Vibe Coding vs Systems-First 20x AI Workflow" width="100%" />
+| System | Role & Architecture | Live / Impact |
+| :--- | :--- | :--- |
+| **[IELTSUp](https://www.ieltsup.app)** — Multi-Examiner IELTS Writing & Speaking SaaS | **Next.js 16 + React 19 Monorepo** + Express worker backend, Upstash Redis rate limiting, Firebase Auth, **multi-examiner AI scoring with blind discrepancy adjudication**, and **atomic quota ledger** (`RESERVED -> COMMITTED \| REFUNDED`) across PayOS, Stripe & Crypto webhooks. | **[ieltsup.app](https://www.ieltsup.app)** · Live production SaaS |
+| **Automated Digital Fulfillment & Dispute Verification System** *(Private Prod)* | **Python + Flask Blueprints**, **SQLite WAL + Supabase RPC** lease-locked FIFO queues, rotating proxy circuit breaker, **AI Vision OCR payment verification** (`>95%` accuracy), and live Telegram ops alerts. | Zero double-claims · Automated daily order fulfillment & ops |
 
 ---
 
-### 🏗️ Shipped Production Systems (Case Studies)
+### How I Can Help (Fast, Fixed-Scope Projects)
 
-> *Core source repositories stay private to protect commercial IP and client data; live deployments and architectural breakdowns are shared below.*
-
-| System | Stack & Infra | Systems Engineering Highlights | Access |
-| :--- | :--- | :--- | :--- |
-| **01 · IELTSUp** <br/>*Multi-Examiner AI EdTech SaaS* | `Next.js 16` · `React 19` · `TypeScript` · `Firebase` · `Upstash Redis` · `Render` · `Vercel` | **4-stage evaluation pipeline** (`@ielts/evaluation-core`): Vision AI chart extraction → character-offset proofreader → **parallel 2-Examiner AI panel + Blind Adjudication** on ≥ 1.0 band variance → **idempotent credit ledger** with source-aware auto-refund; Stripe, PayOS & Crypto billing. | [Live App ↗](https://ielts-gemini-pro.vercel.app) |
-| **02 · Digital Vault & AI Dispute Engine** <br/>*Automated Operations Platform* | `Python` · `Flask Blueprints` · `SQLite WAL` · `Supabase RPC` · `Rotating Proxy` | **Atomic lease-locking worker queue** (zero double-claims under concurrency), **circuit-breaker rotating proxy gateway**, dual-source session verifier, **AI Vision OCR** payment card matching (>95% accuracy) for dispute resolution, CSRF/rate-limit hardening & Telegram ops alerts. | *Private Prod* |
-| **03 · TriGPT Workspace** <br/>*Unified Multi-LLM Chat Client* | `React` · `Vite` · `Express SSE` · `Firebase Auth` · `Firestore` | Streams **65+ frontier & open-weight models** in real time via a unified OpenAI-compatible SSE proxy, with server-side secret isolation, multi-mode reasoning selector, and graceful fallback degradation. | [Live App ↗](https://trigpt0810.vercel.app) |
-
----
-
-### 🛠️ Bite-Sized Services & Indie-Friendly Rates
-
-Looking for a quick build, an AI integration, or someone to rescue a broken prototype? Pick a scoped gig:
-
-| Service | Typical Scope | Turnaround | Starting Rate |
+| Service Scope | Typical Deliverables | Turnaround | Budget |
 | :--- | :--- | :---: | :---: |
-| **⚡ Python Automation, Scrapers & Bots** | Data pipelines, proxy-resilient scrapers, Telegram/Discord bots, API bridges, OCR workflows | `1–3 days` | **From $35+** |
-| **🛠️ Vibe-Code Rescue & Hardening** | Fix auth/DB bugs in Cursor/Bolt/Lovable apps, eliminate race conditions, secure APIs & deploy live | `1–3 days` | **From $50+** |
-| **🚀 Fast-Track AI Web App / SaaS MVP** | Full-stack Next.js/React/Python AI app with auth, database, LLM streaming & payment integration | `3–7 days` | **From $120+** |
-
-> 💬 **Have a small task or tight student/indie budget?** [Send a 30-second project brief →](https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml) or use the [Interactive Brief Builder on my Portfolio →](https://minhtri12995.github.io/#estimate)
+| **Bug Fixing, Optimization & Deployment** | Fix auth/payment race conditions, resolve API timeouts, harden database locks, and deploy to Vercel / Render / VPS | **1 – 2 days** | **$35 – $100** |
+| **Python Automation, Scrapers & Ops Bots** | Telegram / Discord ops bots, resilient Playwright/HTTP scrapers, CSV/CRM pipelines, and OCR verification scripts | **2 – 4 days** | **$50 – $180** |
+| **Full-Stack Web MVP & SaaS Features** | Next.js + Tailwind web app, login & user dashboard, Stripe / PayOS billing webhooks, and structured AI workflows | **4 – 7 days** | **$120 – $350** |
 
 ---
 
-### ⚙️ AI Orchestration & Engineering Stack
+### Core Stack
 
-<p>
-  <img src="https://img.shields.io/badge/AI_Orchestration-20x_Multi--Agent-10B981?style=flat-square&labelColor=141716" alt="20x Multi-Agent" />
-  <img src="https://img.shields.io/badge/Agents-Antigravity_%7C_Claude_%7C_Codex-E2E0D8?style=flat-square&labelColor=141716" alt="Agents" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js_16_%7C_React_19_%7C_TS-E2E0D8?style=flat-square&labelColor=141716" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Python_%7C_Flask_%7C_Node.js-E2E0D8?style=flat-square&labelColor=141716" alt="Backend" />
-  <img src="https://img.shields.io/badge/Data-Firebase_%7C_Supabase_%7C_Redis_%7C_SQLite_WAL-E2E0D8?style=flat-square&labelColor=141716" alt="Data" />
-  <img src="https://img.shields.io/badge/Infra-Vercel_%7C_Render_%7C_GitHub_Pages-E2E0D8?style=flat-square&labelColor=141716" alt="Infra" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js_16-0C0E0D?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-0C0E0D?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0C0E0D?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0C0E0D?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0C0E0D?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Supabase_/_Postgres-0C0E0D?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Redis](https://img.shields.io/badge/Upstash_Redis-0C0E0D?style=flat-square&logo=redis&logoColor=FF4438)
+![Firebase](https://img.shields.io/badge/Firebase-0C0E0D?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Stripe](https://img.shields.io/badge/Stripe_&_PayOS-0C0E0D?style=flat-square&logo=stripe&logoColor=635BFF)
+![Vercel](https://img.shields.io/badge/Vercel_&_Render-0C0E0D?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+<div align="center">
+
+Need a reliable web app, automation script, or quick production fix without full-time overhead?
+
+**[🌐 View Interactive Portfolio](https://minhtri12995.github.io)** &nbsp;·&nbsp; **[⚡ Send a 30s Project Brief](https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml)**
+
+</div>

@@ -16,7 +16,7 @@ body:
       options:
         - "AI Web App / Micro-SaaS MVP"
         - "Python Automation / Bot / Scraper"
-        - "Fix & Harden Existing Vibe-Coded App"
+        - "Bug Fixing, Optimization & Deployment (Existing App)"
         - "Other Custom Tool"
     validations:
       required: true
@@ -38,7 +38,7 @@ body:
     attributes:
       label: "What do you want to build? / Mô tả ngắn gọn ý tưởng"
       description: "Share your core goal, deadline, and any reference link or repo."
-      placeholder: "e.g., Need a Next.js AI tool with login & Stripe/PayOS checkout, OR fix race conditions & deploy my Lovable/Cursor prototype."
+      placeholder: "e.g., Build a Next.js web app with Stripe/PayOS checkout, create a Python Telegram/scraper bot, or fix bugs & deploy an existing prototype."
     validations:
       required: true
 

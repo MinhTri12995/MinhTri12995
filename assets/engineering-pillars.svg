@@ -1,0 +1,67 @@
+<svg width="1080" height="260" viewBox="0 0 1080 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pillars-title">
+  <title id="pillars-title">Engineering Pillars — Built for Real Traffic, Practical AI &amp; Automation, Fast &amp; Fair Per-Project</title>
+  <defs>
+    <linearGradient id="cardGlow1" x1="0" y1="0" x2="340" y2="228" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#131715" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cardGlow2" x1="0" y1="0" x2="340" y2="228" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D97757" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#131715" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="260" rx="16" fill="#0C0E0D"/>
+  <rect x="0.75" y="0.75" width="1078.5" height="258.5" rx="15.25" stroke="#222925" stroke-width="1.5"/>
+
+  <!-- Card 1 -->
+  <g transform="translate(18, 16)">
+    <rect width="336" height="228" rx="12" fill="#131715"/>
+    <rect width="336" height="228" rx="12" fill="url(#cardGlow1)"/>
+    <rect x="0.75" y="0.75" width="334.5" height="226.5" rx="11.25" stroke="#24302A" stroke-width="1.5"/>
+    <text x="22" y="34" fill="#10B981" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">01 // BUILT FOR REAL TRAFFIC</text>
+    <text x="22" y="68" fill="#F4F6F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="18.5" font-weight="700">Production-Grade Stability</text>
+    <text x="22" y="96" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">Atomic billing quotas, Redis rate limits,</text>
+    <text x="22" y="116" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">lease-locked queues &amp; webhook safety</text>
+    <text x="22" y="136" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">so live apps never leak money or crash.</text>
+    <line x1="22" y1="164" x2="314" y2="164" stroke="#222A26" stroke-width="1"/>
+    <rect x="22" y="180" width="96" height="26" rx="6" fill="#0F261F" stroke="#1F513F"/>
+    <text x="70" y="197" text-anchor="middle" fill="#6EE7B7" font-family="ui-monospace, monospace" font-size="11" font-weight="600">ATOMIC LEDGER</text>
+    <rect x="128" y="180" width="98" height="26" rx="6" fill="#181D1B" stroke="#2A332E"/>
+    <text x="177" y="197" text-anchor="middle" fill="#D5DDD9" font-family="ui-monospace, monospace" font-size="11" font-weight="600">CIRCUIT BREAKER</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(372, 16)">
+    <rect width="336" height="228" rx="12" fill="#131715"/>
+    <rect width="336" height="228" rx="12" fill="url(#cardGlow2)"/>
+    <rect x="0.75" y="0.75" width="334.5" height="226.5" rx="11.25" stroke="#24302A" stroke-width="1.5"/>
+    <text x="22" y="34" fill="#E3977B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">02 // PRACTICAL AI &amp; AUTOMATION</text>
+    <text x="22" y="68" fill="#F4F6F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="18.5" font-weight="700">AI That Solves Real Workflows</text>
+    <text x="22" y="96" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">Multi-step AI evaluation, receipt OCR,</text>
+    <text x="22" y="116" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">Telegram ops alerts &amp; Python workers</text>
+    <text x="22" y="136" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">that save hours of manual daily work.</text>
+    <line x1="22" y1="164" x2="314" y2="164" stroke="#222A26" stroke-width="1"/>
+    <rect x="22" y="180" width="96" height="26" rx="6" fill="#2A1D19" stroke="#5A372B"/>
+    <text x="70" y="197" text-anchor="middle" fill="#F0B199" font-family="ui-monospace, monospace" font-size="11" font-weight="600">AI PIPELINES</text>
+    <rect x="128" y="180" width="98" height="26" rx="6" fill="#181D1B" stroke="#2A332E"/>
+    <text x="177" y="197" text-anchor="middle" fill="#D5DDD9" font-family="ui-monospace, monospace" font-size="11" font-weight="600">PYTHON BOTS</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(726, 16)">
+    <rect width="336" height="228" rx="12" fill="#131715"/>
+    <rect width="336" height="228" rx="12" fill="url(#cardGlow1)"/>
+    <rect x="0.75" y="0.75" width="334.5" height="226.5" rx="11.25" stroke="#24302A" stroke-width="1.5"/>
+    <text x="22" y="34" fill="#10B981" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">03 // FAST &amp; FAIR PER-PROJECT</text>
+    <text x="22" y="68" fill="#F4F6F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="18.5" font-weight="700">Clear Scope, Zero Overhead</text>
+    <text x="22" y="96" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">Fixed-price milestones from $35–$350,</text>
+    <text x="22" y="116" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">delivered in 1–7 days with clean docs</text>
+    <text x="22" y="136" fill="#A6B3AC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13.5">and full source ownership on handoff.</text>
+    <line x1="22" y1="164" x2="314" y2="164" stroke="#222A26" stroke-width="1"/>
+    <rect x="22" y="180" width="96" height="26" rx="6" fill="#0F261F" stroke="#1F513F"/>
+    <text x="70" y="197" text-anchor="middle" fill="#6EE7B7" font-family="ui-monospace, monospace" font-size="11" font-weight="600">1–7D DELIVERY</text>
+    <rect x="128" y="180" width="98" height="26" rx="6" fill="#181D1B" stroke="#2A332E"/>
+    <text x="177" y="197" text-anchor="middle" fill="#D5DDD9" font-family="ui-monospace, monospace" font-size="11" font-weight="600">$35–$350 SCOPE</text>
+  </g>
+</svg>
