@@ -1,0 +1,51 @@
+name: "🚀 Start a Project / Thuê Làm Dự Án Nhanh"
+description: "Need an AI web app, Python tool/bot, or bug-fix rescue on an indie-friendly budget?"
+title: "[Project Inquiry] "
+labels: ["inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out! Share a quick 30-second brief below and I'll reply with a clear scope, timeline, and budget-friendly quote.
+        *(Cảm ơn bạn đã liên hệ! Điền nhanh 30 giây bên dưới, mình sẽ phản hồi phương án và báo giá tối ưu trong ngày.)*
+
+  - type: dropdown
+    id: project_type
+    attributes:
+      label: "Project Type / Loại công việc"
+      options:
+        - "AI Web App / Micro-SaaS MVP"
+        - "Python Automation / Bot / Scraper"
+        - "Fix & Harden Existing Vibe-Coded App"
+        - "Other Custom Tool"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: budget
+    attributes:
+      label: "Estimated Budget / Ngân sách dự kiến"
+      options:
+        - "$35 – $100 (Quick Script / Bug Fix)"
+        - "$100 – $250 (Feature / Bot / Tool)"
+        - "$250 – $500+ (Full SaaS MVP)"
+        - "Flexible — Suggest an optimal scope"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "What do you want to build? / Mô tả ngắn gọn ý tưởng"
+      description: "Share your core goal, deadline, and any reference link or repo."
+      placeholder: "e.g., Need a Next.js AI tool with login & Stripe/PayOS checkout, OR fix race conditions & deploy my Lovable/Cursor prototype."
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: "Where can I reach you? / Liên hệ (Telegram / Zalo / Email / FB / Discord)"
+      placeholder: "e.g., @telegram_handle or email@domain.com"
+    validations:
+      required: true

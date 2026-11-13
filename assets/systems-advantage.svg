@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Comparison: Typical Prompt-Only Vibe Coding vs Tri's Systems-First 20x AI Workflow">
+  <rect width="1200" height="230" rx="12" fill="#0D0F0E" stroke="#252C28" stroke-width="1"/>
+
+  <!-- Left Panel: Typical Prompt-Only Vibe Coding -->
+  <g transform="translate(24, 24)">
+    <rect width="560" height="182" rx="8" fill="#171414" stroke="#3D2624" stroke-width="1"/>
+    <rect x="0" y="0" width="4" height="182" rx="2" fill="#E06C60"/>
+    <text x="24" y="34" fill="#E06C60" font-family="'SFMono-Regular', Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="0.8">
+      ✕ TYPICAL PROMPT-ONLY VIBE CODING
+    </text>
+    <line x1="24" y1="48" x2="536" y2="48" stroke="#2E1F1E" stroke-width="1"/>
+    <text x="24" y="76" fill="#D4C7C5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Fragile happy-path demos that break on edge cases
+    </text>
+    <text x="24" y="104" fill="#D4C7C5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Race conditions &amp; double-spend under concurrent traffic
+    </text>
+    <text x="24" y="132" fill="#D4C7C5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Silent API timeouts, missing retries &amp; lost user credits
+    </text>
+    <text x="24" y="160" fill="#D4C7C5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Exposed keys, missing CSRF/rate limits &amp; monolithic code
+    </text>
+  </g>
+
+  <!-- Right Panel: Tri's Systems-First 20x AI Workflow -->
+  <g transform="translate(616, 24)">
+    <rect width="560" height="182" rx="8" fill="#111915" stroke="#1E4636" stroke-width="1"/>
+    <rect x="0" y="0" width="4" height="182" rx="2" fill="#10B981"/>
+    <text x="24" y="34" fill="#10B981" font-family="'SFMono-Regular', Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="0.8">
+      ✓ TRI'S SYSTEMS-FIRST 20x AI WORKFLOW
+    </text>
+    <line x1="24" y1="48" x2="536" y2="48" stroke="#1C3429" stroke-width="1"/>
+    <text x="24" y="76" fill="#E3ECE7" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Atomic idempotent ledgers &amp; auto-refund state safety
+    </text>
+    <text x="24" y="104" fill="#E3ECE7" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Distributed lease-locking queues &amp; SQLite WAL / Redis locks
+    </text>
+    <text x="24" y="132" fill="#E3ECE7" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Multi-agent adversarial verification + circuit-breaker proxies
+    </text>
+    <text x="24" y="160" fill="#E3ECE7" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14.5">
+      • Production-hardened in 1–7 days at indie-friendly pricing
+    </text>
+  </g>
+</svg>
