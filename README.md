@@ -7,6 +7,7 @@
 
   <a href="https://minhtri12995.github.io"><img src="https://img.shields.io/badge/Portfolio-minhtri12995.github.io-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://www.ieltsup.app"><img src="https://img.shields.io/badge/Live_SaaS-ieltsup.app-0F766E?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="IELTSUp Live" /></a>
+  <a href="mailto:concumm2@gmail.com?subject=Project%20Inquiry%20%E2%80%94%20Fixed-Price%20Scope"><img src="https://img.shields.io/badge/Email-concumm2%40gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Direct" /></a>
   <a href="https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml"><img src="https://img.shields.io/badge/Hire_Per_Project-$35–$350-D97757?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Start a Project" /></a>
 </div>
 
@@ -62,6 +63,6 @@ I build **production-ready web apps, payment integrations, and Python automation
 
 Need a reliable web app, automation script, or quick production fix without full-time overhead?
 
-**[🌐 View Interactive Portfolio](https://minhtri12995.github.io)** &nbsp;·&nbsp; **[⚡ Send a 30s Project Brief](https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml)**
+**[🌐 View Interactive Portfolio](https://minhtri12995.github.io)** &nbsp;·&nbsp; **[✉️ concumm2@gmail.com](mailto:concumm2@gmail.com?subject=Project%20Inquiry%20%E2%80%94%20Fixed-Price%20Scope)** &nbsp;·&nbsp; **[⚡ Send a 30s Project Brief](https://github.com/MinhTri12995/MinhTri12995/issues/new?template=project-inquiry.yml)**
 
 </div>
